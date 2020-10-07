@@ -1,5 +1,5 @@
 # ETL Project:
-## Project Name: Climate Action - Reduce Air Pollution;
+## Project Name: Climate Action - Reduce Air Pollution
 ### Members: Harini Rao, Margeaux Jensen, Neelam Baxi, Zen Acar
 
 
