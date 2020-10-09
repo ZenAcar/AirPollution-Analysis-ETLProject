@@ -30,6 +30,3 @@
 	mod_cleaned_air_emission_by_source_co
 	mod_cleaned_air_emission_by_source_no2
 	mod_cleaned_air_emission_by_source_so2
-
-
-
