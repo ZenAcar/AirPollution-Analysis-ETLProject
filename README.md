@@ -2,6 +2,8 @@
 ## Project Name: Climate Action - Reduce Air Pollution
 ### Members: Harini Rao, Margeaux Jensen, Neelam Baxi, Zen Acar
 
+![ETL.png](images/ETL.png)
+
 
 #### Sources of Data:
 -	Kaggle - US Pollution Data - https://www.kaggle.com/sogun3/uspollution -  (2000-2016) CSV 
